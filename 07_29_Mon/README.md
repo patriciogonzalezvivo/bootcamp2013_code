@@ -1,8 +1,8 @@
-## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+# PARSONS THE NEW SCHOOL FOR DESIGN
+# Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-## Mon 29 Jul DAY 1
+# Mon 29 Jul DAY 1
 Opening Event (Auditorium, all students) 
 
 * "Analog Drawing Algorithm"
@@ -14,16 +14,17 @@ Opening Event (Auditorium, all students)
 * Beginners works videos
 * Artist talk
 
-### Homework
+## Homework
 
 * Install Processing, go through the IDE
 
-* ** Learning Processing, chapter 1: Pixels 
-* ** Learning Processing, chapter 2: Processing
-* ** CODE, chapter 2: Codes and Combinations ( optional )
+* o) ***Learning Processing**, chapter 1: Pixels* 
+* o) ***Learning Processing**, chapter 2: Processing*
+
+* o) ***CODE**, chapter 2: Codes and Combinations*
 
 
-### Video
+## Video
 *	[Program or Be Programmed by Douglas Rushkoff](http://www.youtube.com/watch?feature=player_embedded&v=kgicuytCkoY)
 *	[Code.org](http://www.code.org)
 *	[Sound Sculpure -cool example- ](http://wearechopchop.com/%E2%80%9Cunnamed-soundsculpture%E2%80%9D/)

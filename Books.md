@@ -2,25 +2,33 @@
 # Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-##### Core
-* Shiffman, Daniel. Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction. 1st ed. Morgan Kaufmann, 2008.
+## Core
 
-* The Nature of Code: Simulating Natural Systems with Processing. 1st ed. The Nature of Code, 2012.
+![image01](http://ecx.images-amazon.com/images/I/51jXm1-1nkL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg)
 
-* Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software.*  First Paperback ed. Microsoft Press, 2000.
+* [Shiffman, Daniel. Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction. 1st ed. Morgan Kaufmann, 2008.](http://www.amazon.com/Learning-Processing-Beginners-Programming-Interaction/dp/0123736021/ref=sr_1_1?ie=UTF8&qid=1367172255&sr=8-1&keywords=learning+processing)
 
-* Noble, Joshua. Programming Interactivity. Second ed. O’Reilly Media, 2012.
+![image02](http://ecx.images-amazon.com/images/I/41CMjsHNB3L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg)
 
-##### Extra
+* [The Nature of Code: Simulating Natural Systems with Processing. 1st ed. The Nature of Code, 2012.](http://www.amazon.com/Nature-Code-Simulating-Natural-Processing/dp/0985930802/ref=sr_1_1?s=books&ie=UTF8&qid=1367172281&sr=1-1&keywords=nature+of+code)
 
-* Montfort, Nick, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. * Marino, Michael Mateas, Casey Reas, Mark Sample, and Noah Vawter. 10 PRINT CHR$(205.5+RND(1)); : GOTO 10. The MIT Press, 2012.
+![image03](http://ecx.images-amazon.com/images/I/31DR-p2%2B1fL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg)
 
-* Bohnacker, Hartmut, Benedikt Gross, and Julia Laub. Generative Design: Visualize, Program, and Create with Processing. Edited by Claudius Lazzeroni. Princeton Architectural Press, 2012.
+* [Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software.*  First Paperback ed. Microsoft Press, 2000.](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=sr_1_2?s=books&ie=UTF8&qid=1367172299&sr=1-2&keywords=code)
 
-* Cox, Geoff, and Alex McLean. Speaking Code: Coding as Aesthetic and Political Expression. The MIT Press, 2012.
+![image04](http://ecx.images-amazon.com/images/I/51vRfBlHuWL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg)
 
-* Pearson, Matt. Generative Art. Pap/Psc. Manning Publications, 2011
+* [Noble, Joshua. Programming Interactivity. Second ed. O’Reilly Media, 2012.](http://www.amazon.com/Programming-Interactivity-Joshua-Noble/dp/144931144X/ref=sr_1_1?s=books&ie=UTF8&qid=1367172312&sr=1-1&keywords=programming+interactivity)
 
-* Rushkoff, Douglas. Program or Be Programmed: Ten Commands for a Digital Age. Soft Skull Press, 2011.
 
-* Kernighan, Brian W., and Dennis M. Ritchie. C Programming Language. 2nd ed. Prentice Hall, 1988.
+## Extra
+
+* [Montfort, Nick, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. * Marino, Michael Mateas, Casey Reas, Mark Sample, and Noah Vawter. 10 PRINT CHR$(205.5+RND(1)); : GOTO 10. The MIT Press, 2012.](http://www.amazon.com/10-PRINT-CHR-205-5-RND/dp/0262018462/ref=sr_1_1?s=books&ie=UTF8&qid=1367172344&sr=1-1&keywords=10+print)
+
+* [Bohnacker, Hartmut, Benedikt Gross, and Julia Laub. Generative Design: Visualize, Program, and Create with Processing. Edited by Claudius Lazzeroni. Princeton Architectural Press, 2012.](http://www.amazon.com/Generative-Design-Visualize-Program-Processing/dp/1616890770/ref=sr_1_1?s=books&ie=UTF8&qid=1367172364&sr=1-1&keywords=generative+design)
+
+* [Cox, Geoff, and Alex McLean. Speaking Code: Coding as Aesthetic and Political Expression. The MIT Press, 2012.](http://www.amazon.com/Speaking-Code-Aesthetic-Political-Expression/dp/0262018365/ref=sr_1_1?s=books&ie=UTF8&qid=1367172390&sr=1-1&keywords=speaking+code)
+
+* [Pearson, Matt. Generative Art. Pap/Psc. Manning Publications, 2011](http://www.amazon.com/Generative-Art-Matt-Pearson/dp/1935182625/ref=sr_1_2?s=books&ie=UTF8&qid=1367172364&sr=1-2&keywords=generative+design)
+
+* [Rushkoff, Douglas. Program or Be Programmed: Ten Commands for a Digital Age. Soft Skull Press, 2011.](http://www.amazon.com/Program-Be-Programmed-Commands-Digital/dp/159376426X/ref=sr_1_1?s=books&ie=UTF8&qid=1367172430&sr=1-1&keywords=Program+or+Be+Programmed)
