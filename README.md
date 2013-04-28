@@ -1,10 +1,9 @@
-### PARSONS THE NEW SCHOOL FOR DESIGN
-
-### Summer 2013 Bootcamp Code Syllabus
+# PARSONS THE NEW SCHOOL FOR DESIGN
+# Summer 2013 Bootcamp Code Syllabus
 
 -------------------------------------------------------------------
 
-### Teachers
+## Teachers
 
 * Patricio González Vivo <gonzp378@newschool.edu>
 * Jennifer Presto <presj521@newschool.edu>
@@ -15,7 +14,7 @@
 * Anthony Marefat <marek439@newschool.edu>
 
 
-### Learning Outcomes
+## Learning Outcomes
 Give students a general understanding of what code is, the history of code, how it is currently used, the advantages and limitations of code.
 Show students how useful code is for an artist (installation art, openframeworks, web, etc).  Contextualize code in an artistic/interactive setting. Provide resources, books, videos on inspirational artists.
 Give students resources, both online and in print, to further their coding knowledge.  Introduce students to the open source community as both a learning and sharing tool.
@@ -25,10 +24,10 @@ Understand more complex features of code (functions, loops, arrays) and how thes
 Strong emphasis on applying human logic (thinking) into code oriented logic (pseudo code). Also emphasis on breaking problems down.
 
 
-### Workload
+## Workload
 Daily readings/videos and/or assignments will be given the first two weeks. The final week students will work towards a final project. Daily work load will vary depending on assignment and skill level, but 1-3 hours can be expected.
 
-### Lesson Plan Template
+## Lesson Plan Template
 
 * **5min** informal talk. How are you? What's going on? Somebody saw something cool? 
 * **5min** show amazing stuff. And tell how what we are going to do is oriented to that.
@@ -39,7 +38,7 @@ Daily readings/videos and/or assignments will be given the first two weeks. The 
 * **5min** Explain homework
 
 
-### Attendance and Grading
+## Attendance and Grading
 
 * Pass/Fail course.
 
@@ -51,17 +50,18 @@ improvement rather than base knowledge.
 
 * **Plagiarism**: Plagiarism will result in an automatic failure. Working in groups and referring to online resources is a great way to learn and is completely acceptable. Trying to pass off the work of others as your own is not. Code examples, starting points, or collaborative work should be credited where credit is due.
 
-### Resources
-
-* [Books](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/Books.md)
-
-* [On-Line Resources](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/Online_resources.md)
-
-
-### Syllabus
+## Syllabus
 
 * [1st Week](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/1st_week.md)
 
 * [2nd Week](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/2nd_week.md)
 
 * [3th Week](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/3th_week.md)
+
+## Extra Material
+
+* [Books](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/Books.md)
+
+* [On-Line Resources](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/Online_resources.md)
+
+* [Dorkshops](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/masterDorkShops.md)

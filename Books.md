@@ -1,6 +1,6 @@
-### PARSONS THE NEW SCHOOL FOR DESIGN
+# PARSONS THE NEW SCHOOL FOR DESIGN
 
-### Summer 2013 Bootcamp Code Syllabus
+# Summer 2013 Bootcamp Code Syllabus
 
 -------------------------------------------------------------------
 
@@ -10,6 +10,8 @@
 * The Nature of Code: Simulating Natural Systems with Processing. 1st ed. The Nature of Code, 2012.
 
 * Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software.*  First Paperback ed. Microsoft Press, 2000.
+
+* Noble, Joshua. Programming Interactivity. Second ed. O’Reilly Media, 2012.
 
 ##### Extra
 
@@ -24,6 +26,3 @@
 * Rushkoff, Douglas. Program or Be Programmed: Ten Commands for a Digital Age. Soft Skull Press, 2011.
 
 * Kernighan, Brian W., and Dennis M. Ritchie. C Programming Language. 2nd ed. Prentice Hall, 1988.
-
-### Workshops proposal
-
