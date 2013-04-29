@@ -2,30 +2,35 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-### Tue 30 Jul DAY 2
+# Tue 30 Jul DAY 2
 
-Intro and logic
-Programming your classmates 
-Coordinate system
-Go through the IDE
-Commenting code
-Processing.org reference page
+## Introduction to coding and logic
+* Program-Your-Classmates exercise 
+* Coordinate system
+* Processing IDE
+* Commenting code
+* Processing.org reference page
+_________________________
 
-Geometry 1
-Color, grayscale, colorMode (RGB / HSB), range1, range2, range3
-background
-rect, size, fill
-RECT MODES: (CORNER), (CENTER), (RADIUS)
-ellipse, noStroke, fill(r,g,b) + alpha, smooth, ellipseMode(CORNER), (CENTER), (RADIUS), width, height
-Dots and Lines, int, line, strokeWeight
-noFill, stroke - noStroke, beginShape, endShape, vertex, curveVertex,
+## Basic Geometry
+* Color: Grayscale and color
+* colorMode (RGB / HSB);
+* background();
+* size();
+* fill(r,g,b) + alpha; noFill();
+* stroke(); noStroke(); strokeWeight(); smooth();
+* rect, ellipse, line
+* rectMode, ellipseMode: (CORNER), (CENTER), (RADIUS)
+* width, height
+* beginShape(); endShape();
+* vertex(); curveVertex();
+__________________________
+## Homework
+* Masterpiece 1: Draw a Mondrian piece
+* Learning Processing; Chapter 4. Variables (45 - 54 up to Random )
+__________________________
 
-	Videos:
-Program or Be Programmed by Douglas Rushkoff http://www.youtube.com/watch?feature=player_embedded&v=kgicuytCkoY
-Ben Fry / Casey Reas: https://vimeo.com/28117873 ( Processing )
-Casey Reas: https://vimeo.com/45851523 ( nature / chaos )
-Going to the Store: http://www.youtube.com/watch?v=iRZ2Sh5-XuM
-
-	Homework:
-Masterpiece 1: Draw a Mondrian piece
-	Learning Processing; Chapter 4. Variables (45 - 54 up to Random )
+## Videos
+* [Ben Fry and Casey Reas, Eyeo Festival 2011, Processing 2.0](https://vimeo.com/28117873)
+* [Casey Reas, Eyeo Festival 2011, Chance Operations](https://vimeo.com/45851523)
+* [Going to the Store, because it is _hilarious_](http://www.youtube.com/watch?v=iRZ2Sh5-XuM)
