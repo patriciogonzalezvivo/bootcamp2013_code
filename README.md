@@ -28,9 +28,9 @@ Daily readings/videos and/or assignments will be given the first two weeks. The 
 
 ## Lesson Plan Template
 
-* **5min** informal talk. How are you? What's going on? Somebody saw something cool? 
-* **5min** show amazing stuff. And tell how what we are going to do is oriented to that.
-* **5min** show and tell homework that you are proud (2 by class - picked ).
+* **5min** informal talk. How are you? What's going on? Did anyone see anything cool? 
+* **5min** show amazing stuff. Describe how what we are going to do is oriented to that.
+* **5min** show and tell homework that the are proud of (2 by class - picked).
 * **45min** TEACH SOME CODE
 * **10min** Break
 * **45min** TEACH SOME CODE
@@ -55,7 +55,7 @@ improvement rather than base knowledge.
 
 * [2nd Week](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/2nd_week.md)
 
-* [3th Week](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/3th_week.md)
+* [3rd Week](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/3th_week.md)
 
 ## Extra Material
 
