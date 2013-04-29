@@ -9,7 +9,7 @@
 * Coordinate system
 * Processing IDE
 * Commenting code
-* Processing.org reference page
+* [Processing.org reference page](http://processing.org/reference/)
 
 ## Basic Geometry
 * Color: Grayscale and color
