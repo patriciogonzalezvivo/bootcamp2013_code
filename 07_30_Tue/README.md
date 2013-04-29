@@ -16,11 +16,11 @@
 * colorMode (RGB / HSB);
 * background();
 * size();
+* width, height
 * fill(r,g,b) + alpha; noFill();
 * stroke(); noStroke(); strokeWeight(); smooth();
 * rect, ellipse, line
 * rectMode, ellipseMode: (CORNER), (CENTER), (RADIUS)
-* width, height
 * beginShape(); endShape();
 * vertex(); curveVertex();
 
