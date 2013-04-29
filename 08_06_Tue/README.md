@@ -4,7 +4,7 @@
 
 # Tuesday, August 6: DAY 7 
 
-## Mouse and interaction (continued) and keyboard interaction
+## Mouse interaction (continued) and keyboard interaction
 * mousePressed(), mouseReleased(), mouseDragged(), mouseMoved(), mouseClicked()
 * keyPressed():  key, keyCode, ASCII
 * switch
