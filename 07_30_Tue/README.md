@@ -10,7 +10,6 @@
 * Processing IDE
 * Commenting code
 * Processing.org reference page
-_________________________
 
 ## Basic Geometry
 * Color: Grayscale and color
@@ -24,11 +23,11 @@ _________________________
 * width, height
 * beginShape(); endShape();
 * vertex(); curveVertex();
-__________________________
+
 ## Homework
 * Masterpiece 1: Draw a Mondrian piece
 * Learning Processing; Chapter 4. Variables (45 - 54 up to Random )
-__________________________
+
 
 ## Videos
 * [Ben Fry and Casey Reas, Eyeo Festival 2011, Processing 2.0](https://vimeo.com/28117873)
