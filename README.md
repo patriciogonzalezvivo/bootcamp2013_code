@@ -28,13 +28,13 @@ Daily readings/videos and/or assignments will be given the first two weeks. The 
 
 ## Lesson Plan Template
 
-* **5min** informal talk. How are you? What's going on? Did anyone see anything cool? 
-* **5min** show amazing stuff. Describe how what we are going to do is oriented to that.
-* **5min** show and tell homework that the are proud of (2 by class - picked).
+* **5min** Informal talk. How are you? What's going on? Did anyone see anything cool? 
+* **5min** Show amazing stuff. Describe how what we are going to do is oriented to that.
+* **5min** Show and tell homework that they are proud of (2 by class - picked).
 * **45min** TEACH SOME CODE
 * **10min** Break
 * **45min** TEACH SOME CODE
-* **5min** Explain homework
+* **5min** Explain homework.
 
 
 ## Attendance and Grading
