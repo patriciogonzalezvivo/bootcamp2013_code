@@ -2,7 +2,7 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-# Tue 30 Jul DAY 2
+# Tuesday, July 30: DAY 2
 
 ## Introduction to coding and logic
 * Program-Your-Classmates exercise 
@@ -32,4 +32,4 @@
 ## Videos
 * [Ben Fry and Casey Reas, Eyeo Festival 2011, Processing 2.0](https://vimeo.com/28117873)
 * [Casey Reas, Eyeo Festival 2011, Chance Operations](https://vimeo.com/45851523)
-* [Going to the Store, because it is _hilarious_](http://www.youtube.com/watch?v=iRZ2Sh5-XuM)
+* [Going to the Store, because it is _hilarious_](http://www.youtube.com/watch?v=iRZ2Sh5-XuM) :laughing:
