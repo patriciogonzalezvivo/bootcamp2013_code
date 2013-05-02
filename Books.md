@@ -8,7 +8,6 @@
 
 * [Reas, Casey, Chandler McWilliams and LUST. Form+Code in Design, Art, and Architecture. 1st ed. Princeton Architectural Press, 2010.] (http://www.amazon.com/Form-Code-Design-Architecture-Briefs/dp/1568989377/ref=wl_it_dp_o_pC_nS_nC?ie=UTF8&colid=1OL9T6V4A661Q&coliid=I2WM861OYAP1S5)
 
-
 ![image01](http://ecx.images-amazon.com/images/I/51jXm1-1nkL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg)
 
 * [Shiffman, Daniel. Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction. 1st ed. Morgan Kaufmann, 2008.](http://www.amazon.com/Learning-Processing-Beginners-Programming-Interaction/dp/0123736021/ref=sr_1_1?ie=UTF8&qid=1367172255&sr=8-1&keywords=learning+processing)
@@ -24,6 +23,10 @@
 ![image04](http://ecx.images-amazon.com/images/I/51vRfBlHuWL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg)
 
 * [Noble, Joshua. Programming Interactivity. Second ed. O’Reilly Media, 2012.](http://www.amazon.com/Programming-Interactivity-Joshua-Noble/dp/144931144X/ref=sr_1_1?s=books&ie=UTF8&qid=1367172312&sr=1-1&keywords=programming+interactivity)
+
+![image01](http://ecx.images-amazon.com/images/I/7105kfaiIxL._SX285_.jpg)
+
+* [Maeda, John. Creative Code: Aesthetics + Computation. 1st ed. Thames and Hudson, 2004.] (http://www.amazon.com/Creative-Code-Computation-John-Maeda/dp/0500285179/ref=wl_it_dp_o_pC_nS_nC?ie=UTF8&colid=1OL9T6V4A661Q&coliid=I9M36K2547OY3) 
 
 
 ## Extra
