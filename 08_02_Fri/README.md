@@ -9,18 +9,19 @@
 * nested if-statements  
 
 ## Working with images
-* loadImage  
+* loadImage()  
 * PImage myImage  
 * The Data Folder
-* loadImage  
+* loadImage()  
 * myImage.get(x,y)  
   
 ## Working with fonts  
 * PFont myFont  
-* createFont, loadFont  
+* createFont()  
+* loadFont()  
 * The Data Folder
 * Constructing a new font  
-* textFade  
+* textFade()  
 
 
 Videos:
