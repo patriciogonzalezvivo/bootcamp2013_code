@@ -3,15 +3,25 @@
 -------------------------------------------------------------------
 
 ### Fri 2 Aug DAY 5
+  
+## Code Principles  
+*booleans
+*nested if-statements
 
-Image
-loadImage, PImage = class, myImage = an object of 'PImage' class, loadImage, image, myImage.get(x,y)
-IN CLASS: everyone takes a web-cam pic of themselves, loads it in with PImage, and draws funny things on top of it.
-createFont / loadFont
-PFont myFont (introductions to the object concept), PFont.list method, ‘data’ folder, Constructing a new font through “Tools”, textFont, text
-Fade
-booleans true/false 
-nested If statements
+## Working with images
+*loadImage  
+*PImage myImage  
+*The Data Folder
+*loadImage  
+*myImage.get(x,y)  
+  
+## Working with fonts  
+*PFont myFont  
+*createFont, loadFont  
+*The Data Folder
+*Constructing a new font  
+*textFade  
+
 
 Videos:
 See all David Shiffman videos https://vimeo.com/shiffman/videos/
