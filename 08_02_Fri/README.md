@@ -5,22 +5,22 @@
 ### Fri 2 Aug DAY 5
   
 ## Code Principles  
-*booleans
-*nested if-statements
+* booleans  
+* nested if-statements  
 
 ## Working with images
-*loadImage  
-*PImage myImage  
-*The Data Folder
-*loadImage  
-*myImage.get(x,y)  
+* loadImage  
+* PImage myImage  
+* The Data Folder
+* loadImage  
+* myImage.get(x,y)  
   
 ## Working with fonts  
-*PFont myFont  
-*createFont, loadFont  
-*The Data Folder
-*Constructing a new font  
-*textFade  
+* PFont myFont  
+* createFont, loadFont  
+* The Data Folder
+* Constructing a new font  
+* textFade  
 
 
 Videos:
