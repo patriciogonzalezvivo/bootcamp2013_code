@@ -4,9 +4,18 @@
 
 ### Fri 9 Aug DAY 10
 
-map
-Time, timer  hour, minute, second
+##Time
+* millis()  
+* second()  
+* minute()
+* hour()  
+* etc  
+  
+
 *** Math: PI, cos, sin, atan2 (arctangent), abs, pow, sqrt 
 
-Homework:
-Make your own clock using mapping
+##Homework:
+
+MAKE A CLOCK! It has to be  
+  * Unique  
+  * Not boring  
