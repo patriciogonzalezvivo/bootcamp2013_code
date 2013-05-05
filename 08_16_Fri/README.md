@@ -3,4 +3,7 @@
 -------------------------------------------------------------------
 
 ### Fri 16 Aug DAY 15
-ALL DAY FINAL CRITIQUES
+
+
+##FINALS  
+* ALL DAY ERRY DAY  
