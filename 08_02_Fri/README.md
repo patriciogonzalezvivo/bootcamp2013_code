@@ -23,7 +23,7 @@
 * Constructing a new font  
 * textFade()  
 
-Homework:
+##HOMEWORK:
 MAKE SOMETHING BADASS - Combine fonts, image, if statement, mouseX/mouseY in the design  
 Draw on a picture captured from your webcam.  
   
