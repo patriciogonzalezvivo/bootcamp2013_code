@@ -12,8 +12,16 @@
 * etc  
   
 
-*** Math: PI, cos, sin, atan2 (arctangent), abs, pow, sqrt 
-
+##Math  
+* Pi  
+* sin()  
+* cos()  
+* tan()  
+* atan2()  
+* abs()  
+* pow()  
+* sqrt()  
+  
 ##Homework:
 
 MAKE A CLOCK! It has to be  
