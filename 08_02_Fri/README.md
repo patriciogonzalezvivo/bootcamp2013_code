@@ -23,13 +23,11 @@
 * Constructing a new font  
 * textFade()  
 
-
-Videos:
-See all David Shiffman videos https://vimeo.com/shiffman/videos/
-
 Homework:
-MAKE SOMETHING BADASS - Combine fonts, image, if statement, mouseX/mouseY in the design. Draw on a picture captured from your webcam.
-Learning Processing: the rest of "Chapter 5. Conditionals"
-Learning Processing: Chapter 6. Loops
-*** Learning Processing: chapter 7: Functions
+MAKE SOMETHING BADASS - Combine fonts, image, if statement, mouseX/mouseY in the design  
+Draw on a picture captured from your webcam.  
+  
+Learning Processing: the rest of "Chapter 5. Conditionals"  
+Learning Processing: Chapter 6. Loops  
+Learning Processing: chapter 7: Functions
 
