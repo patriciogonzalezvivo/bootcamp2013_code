@@ -2,9 +2,9 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-### Mon 12 Aug DAY 11
-Final project present project options
+# Mon 12 Aug DAY 11
 
-a drawing tool
-a game
+Present options for final project
 
+* drawing tool
+* game
