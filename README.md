@@ -15,27 +15,30 @@
 
 
 ## Learning Outcomes
-Give students a general understanding of what code is, the history of code, how it is currently used, the advantages and limitations of code.
-Show students how useful code is for an artist (installation art, openframeworks, web, etc).  Contextualize code in an artistic/interactive setting. Provide resources, books, videos on inspirational artists.
-Give students resources, both online and in print, to further their coding knowledge.  Introduce students to the open source community as both a learning and sharing tool.
-Introduce students to different open source coding platforms, their uses, strengths and weaknesses. Many of these platforms will be further covered in weekend dorkShoop workshops.
- Understand basic code data types, syntax, and gain a basic feeling for how the “machine” interprets this information.
-Understand more complex features of code (functions, loops, arrays) and how these can be used to organize/simplify projects.
-Strong emphasis on applying human logic (thinking) into code oriented logic (pseudo code). Also emphasis on breaking problems down.
+* Give students a general understanding of what code is, the history of code, how it is currently used, the advantages and limitations of code.
+* Show students how useful code is for an artist (installation art, openframeworks, web, etc).
+* Contextualize code in an artistic/interactive setting. Provide resources, books, videos on inspirational artists.
+* Give students resources, both online and in print, to further their coding knowledge.  Introduce students to the open source community as both a learning and sharing tool.
+* Introduce students to different open source coding platforms, their uses, strengths and weaknesses. Many of these platforms will be further covered in weekend dorkShoop workshops.
+* Understand basic code data types, syntax, and gain a basic feeling for how the “machine” interprets this information.
+* Understand more complex features of code (functions, loops, arrays) and how these can be used to organize/simplify projects.
+* Strong emphasis on applying human logic (thinking) into code oriented logic (pseudo code). Also emphasis on breaking problems down.
 
 
 ## Workload
-Daily readings/videos and/or assignments will be given the first two weeks. The final week students will work towards a final project. Daily work load will vary depending on assignment and skill level, but 1-3 hours can be expected.
+* Daily readings/videos and/or assignments will be given the first two weeks.
+* The final week students will work towards a final project.
+* Daily work load will vary depending on assignment and skill level, but 1-3 hours can be expected.
 
 ## Lesson Plan Template
 
-* **5min** Informal talk. How are you? What's going on? Did anyone see anything cool? 
-* **5min** Show amazing stuff. Describe how what we are going to do is oriented to that.
-* **5min** Show and tell homework that they are proud of (2 by class - picked).
-* **45min** TEACH SOME CODE
-* **10min** Break.
-* **45min** TEACH SOME CODE
-* **5min** Explain homework.
+* **5 min** Check in, see how people are doing, talk about interesting work people have seen
+* **5 min** Show inspirational videos. Relate current curriculum to concepts in videos
+* **5 min** Show & tell homework that they are proud of (2 by class - picked).
+* **60 min** Lecture/work session
+* **15 min** Break
+* **55 min** Lecture/work session
+* **5 min** Explain homework
 
 
 ## Attendance and Grading
