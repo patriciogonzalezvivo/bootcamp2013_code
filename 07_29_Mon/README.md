@@ -17,9 +17,9 @@ Opening Event (Auditorium, all students)
 ## Homework
 
 * Install Processing, go through the IDE
-
-* Learning Processing, chapter 1: Pixels* 
-* Learning Processing, chapter 2: Processing*
+* Set up OpenProcessing account
+* **Learning Processing**, Chapter 1: Pixels* 
+* **Learning Processing**, Chapter 2: Processing*
 
 
 ## Video
