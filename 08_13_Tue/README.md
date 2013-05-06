@@ -2,4 +2,6 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-### Tue 13 Aug DAY 12
+# Tuesday, August 13: DAY 12
+
+Work on final projects!
