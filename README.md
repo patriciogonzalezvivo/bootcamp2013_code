@@ -59,7 +59,7 @@ improvement rather than base knowledge.
 
 * [2nd Week](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/2nd_week.md)
 
-* [3rd Week](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/3th_week.md)
+* [3rd Week](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/3rd_week.md)
 
 ## Extra Material
 
