@@ -8,3 +8,5 @@ Present options for final project
 
 * drawing tool
 * game
+
+Answer lingering questions from past two weeks
