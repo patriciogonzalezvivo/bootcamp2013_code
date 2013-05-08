@@ -1,19 +1,40 @@
-## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+# PARSONS THE NEW SCHOOL FOR DESIGN
+# Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-### Thu 1 Aug DAY 4
+# Thu 1 Aug DAY 4
 
-Structure / Practice
-Dynamic sketching: Assign Variables, setup, draw, function, order, scope, 
-commenting code, Debugging, Iterating, pseudo code
-Mouse 1  MouseX, MouseY, pmouseX, pmouseY, dist (speed), frameRate,
-Operators and Conditionals  If, and  &&, or  ||, Not  !, random, noise
-if/else statements 
-Animation 1  background in draw, ++, -- ; 
+##Learn and Practice:
+####Dynamic sketching/Structure
+* Assigning Variables
+* Setup/Draw
+* Functions
+* Order
+* Scope 
+* Commenting, Debugging, Iterating, pseudo code
 
-Homework:
-Bouncing ball 1: Develop pseudo code (in pairs). This will act as a guideline for their homework assignment: Use the pseudo code from class and create a sketch. Expose the sketch in class gradually, by uncommenting code.
 
-Learning Processing: the rest of "Chapter 5. Conditionals" until Physics
-** Processing (book), Development 2: Iterations, debugging
+####User Interactions  
+* MouseX
+* MouseY
+* pmouseX
+* pmouseY
+* dist (speed)
+
+####Operators and Conditionals  
+* If/else, and ( && ), or  ( || ), Not ( ! )
+* Random, noise
+
+####Animation 1  
+* background in draw 
+* Increment (++) and decrement ( -- ); 
+* frameRate
+
+
+##Classwork/Homework:
+* Develop pseudo code for a bouncing ball sketch in class (in pairs). 
+* Use pseudo code as a guideline for homework assignment: a bouncing ball. During next class, students will expose the sketch in class gradually, by uncommenting code.
+
+##Resources
+* Learning Processing: the rest of "Chapter 5. Conditionals" until Physics
+* Processing (book), Development 2: Iterations, debugging
