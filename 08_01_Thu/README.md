@@ -1,8 +1,10 @@
 # PARSONS THE NEW SCHOOL FOR DESIGN
-# Summer 2013 Bootcamp Code Syllabus
+## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-# Thu 1 Aug DAY 4
+## Thu 1 Aug DAY 4
+
+
 
 ##Learn and Practice:
 ####Dynamic sketching/Structure

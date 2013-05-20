@@ -3,4 +3,5 @@
 -------------------------------------------------------------------
 
 ### Thu 15 Aug DAY 14
-Final Project Work
+
+Last day to work on final projects!
