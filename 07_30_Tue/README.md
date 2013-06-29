@@ -17,10 +17,10 @@
 * background();
 * size();
 * width, height
-* fill(r,g,b) + alpha; noFill();
-* stroke(); noStroke(); strokeWeight(); smooth();
 * rect, ellipse, line
 * rectMode, ellipseMode: (CORNER), (CENTER), (RADIUS)
+* fill(r,g,b) + alpha; noFill();
+* stroke(); noStroke(); strokeWeight(); smooth();
 * beginShape(); endShape();
 * vertex(); curveVertex();
 
