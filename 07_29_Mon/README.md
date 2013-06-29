@@ -5,21 +5,20 @@
 # Mon 29 Jul DAY 1
 Opening Event (Auditorium, all students) 
 
-* History of computing (recent - based on functions)
-* Introduction for different programs, languages
+* [Why learning coding is awesome?](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/07_29_Mon/WhyIsCodeAwesome.md)
+* [Introduction of the CODE team](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/07_29_Mon/CodeTeam.md)
+* Code and Games *( Jen and Anthony ?? )*
+* Code and Pcomp *( Adiel and Matt ?? )*
+* Video of code-related D+T projects *( Owen and Ricardo ?? )*
 * Overview of Resources
-* Code and Games
-* Code and Pcomp 
-* Video of code-related D+T projects
-* "Analog Drawing Algorithm"
 * Artist talk
 
 ## Homework
 
-* Install Processing, go through the IDE
-* Set up OpenProcessing account
-* **Learning Processing**, Chapter 1: Pixels* 
-* **Learning Processing**, Chapter 2: Processing*
+* [Install Processing, go through the IDE](http://processing.org/tutorials/gettingstarted/)
+* Set up [OpenProcessing](http://www.openprocessing.org/) account
+* **[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf)**, Chapter 1: Pixels* 
+* **[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf)**, Chapter 2: Processing*
 
 
 ## Video
