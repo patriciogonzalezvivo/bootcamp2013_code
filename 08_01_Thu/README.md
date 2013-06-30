@@ -4,8 +4,6 @@
 
 ## Thu 1 Aug DAY 4
 
-
-
 ##Learn and Practice:
 ####Dynamic sketching/Structure
 * Assigning Variables
