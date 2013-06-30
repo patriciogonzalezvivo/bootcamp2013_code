@@ -6,6 +6,7 @@
 
 * Geometry II: [`arc()`](http://processing.org/reference/arc_.html), [`triangle()`](http://processing.org/reference/triangle_.html). An optional shape: [`bezier()`](http://processing.org/reference/bezier_.html).
 * Useful constants: [`PI`](http://processing.org/reference/PI.html), [`QUARTER_PI`](http://processing.org/reference/QUARTER_PI.html), [`HALF_PI`](http://processing.org/reference/HALF_PI.html), [`TWO_PI`](http://processing.org/reference/TWO_PI.html)
+* Commenting
 * Debuging tool: [```print()```](http://processing.org/reference/print_.html), [```println()```](http://processing.org/reference/println_.html). Text and values, Combined values. 
 * Data types: Think in variables and data types as food storage containers: different containers for different foods, different data types for different variables. 
 	* [`int`](http://processing.org/reference/int.html)
