@@ -7,7 +7,7 @@ Opening Event (Auditorium, all students)
 
 * [Why learning coding is awesome?](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/07_29_Mon/WhyIsCodeAwesome.md)
 * [Introduction of the CODE team](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/07_29_Mon/CodeTeam.md)
-* Code and Games *( Jen and Anthony ?? )*
+* Code and Games *( Jennifer and Anthony ?? )*
 * Code and Pcomp *( Adiel and Matt ?? )*
 * Video of code-related D+T projects *( Owen and Ricardo ?? )*
 * Overview of Resources
