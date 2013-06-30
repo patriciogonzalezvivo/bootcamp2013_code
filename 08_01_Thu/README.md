@@ -13,28 +13,29 @@
 * Scope 
 * Commenting, Debugging, Iterating, pseudo code
 
+// Note: check this as reference https://github.com/ofZach/ofDocs/blob/master/chapter5.md
 
 ####User Interactions  
-* MouseX
-* MouseY
-* pmouseX
-* pmouseY
-* dist (speed)
+* [`mouseX`](http://processing.org/reference/mouseX.html)
+* [`mouseY`](http://processing.org/reference/mouseY.html)
+* [`pmouseX`](http://processing.org/reference/pmouseX.html)
+* [`pmouseY`](http://processing.org/reference/pmouseY.html)
+* [`dist()`](http://processing.org/reference/dist_.html)
 
 ####Operators and Conditionals  
-* If/else, and ( && ), or  ( || ), Not ( ! )
-* Random, noise
+* [`if`](http://processing.org/reference/if.html)/[`else`](http://processing.org/reference/else.html), and [`&&`](http://processing.org/reference/logicalAND.html), or  [`||`](http://processing.org/reference/logicalOR.html), Not [`!`](http://processing.org/reference/logicalNOT.html)
+* [`random()`](http://processing.org/reference/random_.html), [`noise()`](http://processing.org/reference/noise_.html)
 
 ####Animation 1  
 * background in draw 
-* Increment (++) and decrement ( -- ); 
-* frameRate
+* Increment [`++`](http://processing.org/reference/increment.html) and decrement [`--`](http://processing.org/reference/decrement.html); 
+* [`frameRate`](http://processing.org/reference/frameRate.html)
 
 
 ##Classwork/Homework:
-* Develop pseudo code for a bouncing ball sketch in class (in pairs). 
+* Think in pseudo code for a bouncing ball sketch in class (in pairs). 
 * Use pseudo code as a guideline for homework assignment: a bouncing ball. During next class, students will expose the sketch in class gradually, by uncommenting code.
 
 ##Resources
-* Learning Processing: the rest of "Chapter 5. Conditionals" until Physics
+* ***[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): the rest of "Chapter 5. Conditionals" until Physics***
 * Processing (book), Development 2: Iterations, debugging
