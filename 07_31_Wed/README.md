@@ -2,7 +2,7 @@
 # Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-# Wednesday, July 31: DAY 3
+# [Wednesday, July 31: DAY 3](https://docs.google.com/presentation/d/1V-ZBnduJRSbLPwGCE-1VziMGW0Z4AEP-A5_U7GOMUx0/edit?usp=sharing)
 
 * Geometry II: [`arc()`](http://processing.org/reference/arc_.html), [`triangle()`](http://processing.org/reference/triangle_.html). An optional shape: [`bezier()`](http://processing.org/reference/bezier_.html).
 * Useful constants: [`PI`](http://processing.org/reference/PI.html), [`QUARTER_PI`](http://processing.org/reference/QUARTER_PI.html), [`HALF_PI`](http://processing.org/reference/HALF_PI.html), [`TWO_PI`](http://processing.org/reference/TWO_PI.html)

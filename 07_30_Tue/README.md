@@ -5,11 +5,11 @@
 # Tuesday, July 30: DAY 2
 
 ## Introduction to coding and logic
-* [Program-Your-Classmates exercise](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/07_30_Tue/activity_01.md)
+* Activity A: [Program-Your-Classmates exercise](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/07_30_Tue/activity_01.md)
+* Activity B: [Physical Cartesian](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/07_30_Tue/activity_02.md)
 * [Coordinate system](http://processing.org/tutorials/drawing/)
 * [Processing IDE](http://processing.org/tutorials/gettingstarted/)
-* [Good Code Practices: Commenting and Formatting](http://java.dzone.com/articles/10-best-practices-code)
-* [Processing.org reference page](http://processing.org/reference/)
+* References: [Processing Reference](http://processing.org/reference/), [Processing Tutorials](http://processing.org/tutorials/), [P5 Forum](http://forum.processing.org/), [OpenProcessing.org](http://www.openprocessing.org/) and Daniel Shiffman's [Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf) orange book, [Nature of Code Book](http://natureofcode.com/) and [Nature of Code Videos](https://vimeo.com/channels/natureofcode)
 
 ## Basic Geometry
 * [Color: Grayscale and color](http://processing.org/tutorials/color/)
@@ -32,3 +32,4 @@
 ## Videos
 * [Ben Fry and Casey Reas, Eyeo Festival 2011, Processing 2.0](https://vimeo.com/28117873)
 * [Casey Reas, Eyeo Festival 2011, Chance Operations](https://vimeo.com/45851523)
+
