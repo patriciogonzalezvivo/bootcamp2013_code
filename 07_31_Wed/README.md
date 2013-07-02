@@ -16,12 +16,12 @@
 	* [`color`](http://processing.org/reference/color_datatype.html).
 	* Some optional data types (we won't cover these in Bootcamp): [`byte`](http://processing.org/reference/byte.html), [`char`](http://processing.org/reference/char.html).
 * Math operators: [`+`](http://processing.org/reference/addition.html), [`-`](http://processing.org/reference/minus.html), [`*`](http://processing.org/reference/multiply.html), [`/`](http://processing.org/reference/divide.html), [`%`](http://processing.org/reference/modulo.html) and [`=`](http://processing.org/reference/assign.html).
-* Optional: Trigonometry (we'll cover this in a Dorkshop later during Bootcamp): [`cos()`](http://processing.org/reference/cos_.html), [`sin()`](http://processing.org/reference/sin_.html). (Check this [tutorial of Trigonometry](http://processing.org/tutorials/trig/) ).
+* Optional: Trigonometry (we'll cover this in a Dorkshop later during Bootcamp): [`cos()`](http://processing.org/reference/cos_.html), [`sin()`](http://processing.org/reference/sin_.html). (Check out this [tutorial of Trigonometry](http://processing.org/tutorials/trig/) ).
 
 
 ## Homework
 
-* Draw an image using code that change together with the size of the screen
+* Draw an image using code so that it changes when the size of the screen changes.
 
 * ***[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): Chapter 3. Interaction***
 * ***[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): Chapter 5. Conditionals (until "5.5 MultipleRollovers")***
