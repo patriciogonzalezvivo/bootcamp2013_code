@@ -15,8 +15,8 @@ void setup() {
 
 void draw() {
   background(255);
-  ourFirstFunction();  //carries out steps in function written below before continuing with draw
-  ourSecondFunction(255, 0, 0);
+  drawBlueCircle();  //carries out steps in function written below before continuing with draw
+  drawSquare(255, 0, 0);
 }
 //-------------------------------------------------
 //It's generally a good practice to define functions
