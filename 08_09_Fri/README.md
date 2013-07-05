@@ -2,7 +2,7 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-### Fri 9 Aug DAY 10
+### Friday, August 9: DAY 10
 
 ##Time
 * millis()  

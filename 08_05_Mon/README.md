@@ -2,7 +2,7 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-# Mon 5 Aug DAY 6
+### Monday, August 5: DAY 6
 
 * for loops, generating patterns
 * functions

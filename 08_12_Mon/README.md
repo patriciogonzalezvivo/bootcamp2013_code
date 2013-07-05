@@ -2,7 +2,7 @@
 ## Summer 2013 Bootcamp Code Syllabus
 --------------------------------------------------------
 
-# Mon 12 Aug DAY 11
+### Monday, August 12: DAY 11
 
 Present options for final project
 

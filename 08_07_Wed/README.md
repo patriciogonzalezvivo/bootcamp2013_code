@@ -2,7 +2,7 @@
 # Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-# Wed 7 Aug DAY 8 
+### Wednesday, August 7: DAY 8 
 
 * Arrays (Animation 2). 
 * [ ], float/int - new float/int, bouncing balls, snake, 2D arrays.

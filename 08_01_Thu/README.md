@@ -2,7 +2,7 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-## [Thu 1 Aug DAY 4](https://docs.google.com/presentation/d/1TT03O_QtI4JW-_VykItm2dH26idwO9Y3zOE_tRjfmkU/edit?usp=sharing)
+### [Thursday, August 1: DAY 4](https://docs.google.com/presentation/d/1TT03O_QtI4JW-_VykItm2dH26idwO9Y3zOE_tRjfmkU/edit?usp=sharing)
 
 ##Learn and Practice:
 ####Dynamic sketching/Structure

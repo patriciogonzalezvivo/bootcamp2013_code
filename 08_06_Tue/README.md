@@ -2,7 +2,7 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-# Tuesday, August 6: DAY 7 
+### Tuesday, August 6: DAY 7 
 
 ## Mouse interaction (continued) and keyboard interaction
 * mousePressed(), mouseReleased(), mouseDragged(), mouseMoved(), mouseClicked()

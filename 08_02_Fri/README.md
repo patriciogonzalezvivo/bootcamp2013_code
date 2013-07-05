@@ -2,7 +2,7 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-### Fri 2 Aug DAY 5
+### Friday, August 2: DAY 5
   
 ## Code Principles  
 * booleans  
