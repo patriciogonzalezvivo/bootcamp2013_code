@@ -15,9 +15,11 @@ void setup() {
 
 void draw() {
   background(255);
-  drawBlueCircle();  //carries out steps in function written below before continuing with draw
-  drawSquare(255, 0, 0);
+  drawBlueCircle(); 
+//drawSquare(255, 0, 0);
 }
+
+
 //-------------------------------------------------
 //It's generally a good practice to define functions
 //underneath the draw loop.
