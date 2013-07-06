@@ -1,3 +1,11 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 6, For Loops and Functions
+// More For Loops
+// http://processing.org/reference/for.html
+//----------------------------------------------------
+
+
 /* FOR LOOPS
  - for loops are an essential part of saving time while coding!
  - Basic for-loops allow you to duplicate an action any number of times 

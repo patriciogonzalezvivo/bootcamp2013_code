@@ -2,7 +2,7 @@
 # Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-# Mon 29 Jul DAY 1
+### Monday, July 29: DAY 1
 Opening Event (Auditorium, all students) 
 
 * [Why learning coding is awesome?](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/07_29_Mon/WhyIsCodeAwesome.md)

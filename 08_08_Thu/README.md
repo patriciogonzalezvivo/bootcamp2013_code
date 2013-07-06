@@ -2,7 +2,7 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-### Thu 8 Aug DAY 9
+### Thursday, August 8: DAY 9
 
 
 

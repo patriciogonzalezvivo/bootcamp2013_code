@@ -2,7 +2,7 @@
 ## Summer 2013 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
-# Tuesday, July 30: DAY 2
+### Tuesday, July 30: DAY 2
 
 ## Introduction to coding and logic
 * Activity A: [Program-Your-Classmates exercise](https://github.com/patriciogonzalezvivo/bootcamp2013_code/blob/master/07_30_Tue/activity_01.md)

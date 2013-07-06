@@ -1,4 +1,14 @@
-/* Nested If-Loops (aka if-loops inside of if-loops)
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 6, For Loops and Functions
+// For loops combined with nested if-statements;
+// expanding on example from the day before.
+// http://processing.org/reference/for.html
+// http://processing.org/reference/if.html
+//----------------------------------------------------
+
+
+/* Nested If-statements (aka if-statements inside of if-statements)
  - these are seen when the occurence of one scenario produces the 
  possibility of multiple other scenarios.
  Ex:

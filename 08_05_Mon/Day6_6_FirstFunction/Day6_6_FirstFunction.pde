@@ -1,10 +1,8 @@
 /*   Introducing the concept of a function
 
-- A function is a unique procedure that can be referenced from the draw loop, 
+- A function is a "chunk" of code that can be referenced from the draw loop, 
 and other functions.
-- Functions are very handy for keeping your code clean and organized. For example, 
-your draw loop could be entirely comprised of your pseudocode, and all of the 
-number crunching could exist inside of the functions that are listed in your draw loop.
+- Functions are essential to keeping your code clean and organized.
 - Additionally, you can pass variables to a function as shown below!
 */
 
@@ -12,18 +10,27 @@ void setup() {
   size(400, 400);
   smooth();
   ellipseMode(CENTER);
-  background(255);
-  fill(0, 0, 255);
+  rectMode(CENTER);
 }
 
 void draw() {
-  ourFirstFunction(200);  //carries out steps in function written below before continuing with draw
-  //the # 200 is used as (int yPos) when carrying out the steps inside of the function
+  background(255);
+  drawBlueCircle();  //carries out steps in function written below before continuing with draw
+  drawSquare(255, 0, 0);
+}
+//-------------------------------------------------
+//It's generally a good practice to define functions
+//underneath the draw loop.
+//-------------------------------------------------
+
+void ourFirstFunction() {  //executes code within brackets before going back to draw
+  fill(0, 0, 255);
+  ellipse(mouseX, mouseY, 50, 50);
 }
 
-//This function has 1 variable that is referenced within the brackets
-
-void ourFirstFunction(int yPos) {  //executes code within brackets before going back to draw
-  ellipse(200, yPos, 200, 200);
+void ourSecondFunction(int r, int g, int b){
+  fill(r, g, b);
+  rect(mouseX, mouseY, 20, 20);
 }
+
 

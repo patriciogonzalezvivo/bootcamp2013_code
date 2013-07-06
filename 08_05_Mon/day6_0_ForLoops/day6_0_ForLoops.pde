@@ -1,3 +1,10 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 6, For Loops and Functions
+// Basic For Loop
+// http://processing.org/reference/for.html
+//----------------------------------------------------
+
 
 void setup () {
   size(300, 300);
