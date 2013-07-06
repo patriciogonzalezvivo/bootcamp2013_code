@@ -1,3 +1,10 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 6, For Loops and Functions
+// Creating gradients with for loops
+// http://processing.org/reference/for.html
+//----------------------------------------------------
+
 /* Gradients */
 
 void setup() {
