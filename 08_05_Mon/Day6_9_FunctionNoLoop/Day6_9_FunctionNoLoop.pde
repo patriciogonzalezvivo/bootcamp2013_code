@@ -1,3 +1,11 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 6, For Loops and Functions
+// Showing sequence of functions 
+// http://processing.org/examples/functions.html
+//----------------------------------------------------
+
+
 //More Functions
 // noLoop() used to stop draw from going on to infinity!
 // Run this sketch and track the sequence of the steps in the console

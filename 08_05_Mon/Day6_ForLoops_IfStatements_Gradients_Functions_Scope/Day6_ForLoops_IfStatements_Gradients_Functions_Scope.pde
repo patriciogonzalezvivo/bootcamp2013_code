@@ -1,3 +1,12 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 6, For Loops and Functions
+// Functions with for loops 
+// http://processing.org/examples/functions.html
+// http://processing.org/reference/for.html
+//----------------------------------------------------
+
+
 // A combination of the things we have covered today
 
 //Y-Direction

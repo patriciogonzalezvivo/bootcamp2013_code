@@ -1,3 +1,11 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 6, For Loops and Functions
+// Functions with for loops 
+// http://processing.org/examples/functions.html
+// http://processing.org/reference/for.html
+//----------------------------------------------------
+
 /* For-Loop w/ Function!
  - With this you are able to get repetition of a function with 
  variables that change according to the for-loops
