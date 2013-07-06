@@ -1,9 +1,16 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+//
+//  Day 5, 
+//
 // createFont() function constructs a new font
 // createFont() converts fonts on the computer into Processing format
 // createFont() is advanced and requires the use of the list function
-
+//
 // in this code we are using createFont function
 // use the list() methods (function) to get a list of compatible fonts on the system
+//
+//----------------------------------------------------
 
 PFont myFont;
 int fontPosY = 40;

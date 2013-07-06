@@ -22,7 +22,7 @@
 ## Homework
 
 * Draw an image using code so that it changes when the size of the screen changes.
-
+* [Drawing Curves Tutorial](http://processing.org/tutorials/curves/)
 * ***[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): Chapter 3. Interaction***
 * ***[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): Chapter 5. Conditionals (until "5.5 MultipleRollovers")***
 

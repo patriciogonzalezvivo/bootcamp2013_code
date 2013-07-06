@@ -1,15 +1,16 @@
-/* Booleans!
- - booleans are a simple data type with only two states (true and false)
- - they make it much easier to build applications that have chronological or systematic steps. 
- This will become much more relevant when you have additional modes of interaction (mouse click, key press, etc.).
- Right now all we have is mouseX and mouseY, but a pseudocode example is as follows:
- ex:
- - Sketch starts with step1=true, step2=false, step3=false
- (in draw):
- - when done with step1:  step1=false, step2=true
- - when done with step2:  step2=false, step3=true
- and so on...
- */
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// - booleans are a simple data type with only two states (true and false)
+// - they make it much easier to build applications that have chronological or systematic steps. 
+// This will become much more relevant when you have additional modes of interaction (mouse click, key press, etc.).
+// Right now all we have is mouseX and mouseY, but a pseudocode example is as follows:
+// ex:
+// - Sketch starts with step1=true, step2=false, step3=false
+// (in draw):
+// - when done with step1:  step1=false, step2=true
+// - when done with step2:  step2=false, step3=true
+// and so on...
+//----------------------------------------------------
 
 int colorCounter;
 

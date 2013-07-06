@@ -1,5 +1,10 @@
-
-// Image2. Color picker.
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+//
+//  Day 5, PImage.get();
+//
+//
+//----------------------------------------------------
 
 void setup() {
   size(600, 460);
