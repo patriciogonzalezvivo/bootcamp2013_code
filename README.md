@@ -11,7 +11,6 @@
 * Ricardo Vega Mora <vegar021@newschool.edu>
 * Owen Herterich <herto744@newschool.edu>
 * Anthony Marefat <marek439@newschool.edu>
-* Sarah Wever <weves638@newschool.edu>
 
 
 ## Learning Outcomes
