@@ -1,3 +1,9 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 6, For Loops and Functions
+// Combining all sorts of stuff
+//----------------------------------------------------
+
 //  Let´s make some global variables to easy setup
 //
 float ballYPos;

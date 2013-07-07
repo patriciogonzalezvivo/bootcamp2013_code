@@ -1,3 +1,11 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 6, For Loops and Functions
+// Functions that take parameters
+// http://processing.org/examples/functions.html
+//----------------------------------------------------
+
+
 // More Functions!
 
 void setup() {
