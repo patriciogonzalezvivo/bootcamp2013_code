@@ -11,7 +11,6 @@
 * Physics (collisions, gravity, speed)
 
 
-
 ##Homework:
 Create a sketch that has graphics/images/fonts exploding out of mouse clicks.
 

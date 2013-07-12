@@ -2,15 +2,15 @@
 
 * Code have been around for a while. It's essentially recipes for dealing with information. Law, religious, architecture, music, cartography, etc ( show maps and diagrams )
 
-* Look around and see how much of our every-day life is using by code, algorithms or database? 
+* Look around and see how much of our every-day life is using by code, algorithms or database? (subway, elevators, shopping, hospitals, schools, cellphones, death forms  )
 
-* We become users and technology a black box. Most of us have a very superficial understanding of what happens behind an email, a google search, pressing a button on an elevator, etc.
+* We become users and technology a black box. Most of us have a very superficial understanding of what happens behind an email, a google search, pressing a button on an elevator, etc. (Catalina thesis)
 
-* How we can be critical about the world and make right interventions if we don't understand what moves the pulls behind curtains. 
+* How we can be critical about the world and make right interventions if we don't understand what moves the pulls behind curtains ???
 
-* As designers/artists part of our job is to know the rules, play with them, expose them or blend them.
+* As designers/artists part of our job is to know the rules, play with them, expose them or blend them. ( avatar blenders )
 
-* Knowing code today is the equivalent of learning sociology, printmaking, alchemy or mathematics. It give us the power to understand how the world around is constructed and how it works.
+* Knowing code today is the equivalent of learning sociology, printmaking, alchemy or mathematics. It give us the power to understand how the world around is constructed and how it works. 
 
 * Gives us the power to stop been users and jump to been makers. Active participants, those how put discussions over the table. Ironworkers to forge a bright tomorrow. 
 
