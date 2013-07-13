@@ -1,3 +1,11 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 8, Arrays
+//
+// remeber the last positions
+//----------------------------------------------------
+
+
 int numPos = 50;
 int[] xPos = new int[numPos];
 int[] yPos = new int[numPos];

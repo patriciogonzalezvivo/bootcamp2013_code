@@ -1,3 +1,9 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 8, Arrays
+//  
+//  Remember the last clicked positions
+//----------------------------------------------------
 
 
 int num = 50;

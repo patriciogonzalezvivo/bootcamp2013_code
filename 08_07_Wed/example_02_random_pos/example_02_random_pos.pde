@@ -1,3 +1,11 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 8, Arrays
+//
+//  Random positions
+//
+//----------------------------------------------------
+
 /*
   Arrays - Intro
  

@@ -1,3 +1,9 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 8, Arrays of strings
+//
+//----------------------------------------------------
+
 /*
   Arrays - Other Data Types & Styles Of Filling 'Em
  
@@ -11,7 +17,7 @@ int numNames = 7; // how many slots we need our array to hold
 
 // this time, we can tell the array exactly what we want rather than doing so
 // through a for-loop.
-String[] teacherNames = {"Jane", "Maya", "Ramiro", "Noa", "Conor", "Juan", "Vivian"};
+String[] teacherNames = {"Jennifer", "Adiel", "Anthony", "Ricardo", "Owen", "Matt", "Patricio"};
 
 // let's hold their x and y pos as well. but we'll define those in setup.
 float[] teacherNamesX = new float [numNames];
