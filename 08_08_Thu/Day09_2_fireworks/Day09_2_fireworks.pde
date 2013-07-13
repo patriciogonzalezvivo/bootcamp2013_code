@@ -5,7 +5,7 @@
 // http://www.processing.org/reference/Array.html
 //----------------------------------------------------
 
-// Draws firworks where mouse is released.
+// Draws fireworks where mouse is released.
 
 int numFires = 200;
 
