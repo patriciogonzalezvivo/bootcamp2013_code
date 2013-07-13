@@ -24,6 +24,6 @@
   
 ##Homework:
 
-MAKE A CLOCK! It has to be  
-  * Unique  
-  * Not boring  
+MAKE A CLOCK! It has to  
+  * Show the current time (in real time)  
+  * Work  

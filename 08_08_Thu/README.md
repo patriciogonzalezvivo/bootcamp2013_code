@@ -7,7 +7,7 @@
 
 
 ##Key Concepts
-* Arrays 
+* Arrays (continued)
 * Physics (collisions, gravity, speed)
 
 
