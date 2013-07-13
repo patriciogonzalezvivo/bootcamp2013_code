@@ -1,5 +1,12 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 8, Arrays
+//
 // In this example we want to create an array
 // with specific values.
+//
+//----------------------------------------------------
+
 
 int circleNum = 6;
 

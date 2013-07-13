@@ -4,13 +4,11 @@
 
 ### Wednesday, August 7: DAY 8 
 
-* Arrays (Animation 2). 
-* [ ], float/int - new float/int, bouncing balls, snake, 2D arrays.
+* Let's speak about Memory and it power
+* Arrays Introduction
 
 
 ## Homework
-
-* //Have one of your apps online.
 * Array of bouncing balls + gravity.
 
 

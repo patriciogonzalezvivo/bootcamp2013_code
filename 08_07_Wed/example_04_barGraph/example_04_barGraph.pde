@@ -1,4 +1,10 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 8, Arrays
+//
 // by Vivian Xu
+//----------------------------------------------------
+
 
 color [] c = new color [12];
 

@@ -1,4 +1,9 @@
-
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 8, Arrays
+// This is not an array... not efficient at all
+// http://processing.org/reference/for.html
+//----------------------------------------------------
 
 void setup() {
   size(250, 100);

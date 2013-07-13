@@ -1,7 +1,14 @@
+//----------------------------------------------------
+// DT Bootcamp 2013, Parsons the New School for Design. 
+// Day 8, Arrays
+//
+// We can assign values atomaticaly
+//
+//----------------------------------------------------
+
 int circleNum = 6;
 
 int[] circleX = new int[circleNum];
-
 
 void setup() {
   
