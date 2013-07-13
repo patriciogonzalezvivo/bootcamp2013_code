@@ -51,7 +51,7 @@ void draw() {
   // With all this information, you draw ellipses at all those points.
   for (int i = 0; i < numPos; i++) {
    fill(255, random(255), random(255)); // color is tied to i, and the rest is set random
-   ellipse(xPos[i], yPos[i], i, i); // size also tied to random
+   ellipse(xPos[i], yPos[i], i, i); // size and position also tied to i
   }
 }
 
