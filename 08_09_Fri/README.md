@@ -27,3 +27,6 @@
 MAKE A CLOCK! It has to  
   * Show the current time (in real time)  
   * Work  
+  
+Example:
+http://processing.org/examples/clock.html
