@@ -21,8 +21,7 @@
 * [```rectMode()```](http://processing.org/reference/rectMode_.html), [```ellipseMode()```](http://processing.org/reference/ellipseMode_.html)
 * [```fill()```](http://processing.org/reference/fill_.html), [```noFill()```](http://processing.org/reference/noFill_.html)
 * [```stroke()```](http://processing.org/reference/stroke_.html), [```noStroke()```](http://processing.org/reference/noStroke_.html), [```strokeWeight()```](http://processing.org/reference/strokeWeight_.html), [```smooth()```](http://processing.org/reference/smooth_.html)
-* [```beginShape()```](http://processing.org/reference/beginShape_.html), [```endShape()```](http://processing.org/reference/endShape_.html)
-* [```vertex()```](http://processing.org/reference/vertex_.html), [```curveVertex()```](http://processing.org/reference/curveVertex_.html)
+* [```beginShape()```](http://processing.org/reference/beginShape_.html), [```endShape()```](http://processing.org/reference/endShape_.html), [```vertex()```](http://processing.org/reference/vertex_.html)
 
 ## Homework
 * Draw [Mondrian's 'The Quiet Life' painting](http://www.google.com/imgres?imgurl=&imgrefurl=http%3A%2F%2Felizabethprata.blogspot.com%2F2011%2F06%2Fmondrians-computer-like-brain.html&h=0&w=0&sz=1&tbnid=46dx68I1pmL3GM&tbnh=224&tbnw=225&zoom=1&docid=NOzkLMUhjzOb0M&ei=HmTPUeWxNYP40gH8roCAAQ&ved=0CAEQsCU) using processing

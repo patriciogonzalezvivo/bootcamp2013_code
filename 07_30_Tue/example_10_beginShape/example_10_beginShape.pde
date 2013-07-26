@@ -24,8 +24,8 @@ fill(255, 50);
 
 // Try each of these to see how the mode changes which shape are drawn
 // given the same points
-beginShape(TRIANGLE_FAN);
-//beginShape(TRIANGLES);
+beginShape(TRIANGLES);
+//beginShape(TRIANGLE_FAN);
 //beginShape(TRIANGLE_STRIP);
 //beginShape(LINES);
 //beginShape(QUADS);
