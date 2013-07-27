@@ -20,12 +20,12 @@ Opening Event (Auditorium, all students)
 * **[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf)**, Chapter 1: Pixels* 
 * **[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf)**, Chapter 2: Processing*
 
-
 ## Video
 *	[Program or Be Programmed by Douglas Rushkoff](http://www.youtube.com/watch?feature=player_embedded&v=kgicuytCkoY)
 *	[Code.org](http://www.code.org)
 *	[Sound Sculpure -cool example- ](http://wearechopchop.com/%E2%80%9Cunnamed-soundsculpture%E2%80%9D/)## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+
+
 -------------------------------------------------------------------
 
 ### Tuesday, July 30: DAY 2
@@ -53,13 +53,11 @@ Opening Event (Auditorium, all students)
 * Draw [Mondrian's 'The Quiet Life' painting](http://www.google.com/imgres?imgurl=&imgrefurl=http%3A%2F%2Felizabethprata.blogspot.com%2F2011%2F06%2Fmondrians-computer-like-brain.html&h=0&w=0&sz=1&tbnid=46dx68I1pmL3GM&tbnh=224&tbnw=225&zoom=1&docid=NOzkLMUhjzOb0M&ei=HmTPUeWxNYP40gH8roCAAQ&ved=0CAEQsCU) using processing
 * Read Shiffman's [Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf); **Chapter 4. Variables** (45 - 54 up to Random) for next class
 
-
 ## Videos
 * [Ben Fry and Casey Reas, Eyeo Festival 2011, Processing 2.0](https://vimeo.com/28117873)
 * [Casey Reas, Eyeo Festival 2011, Chance Operations](https://vimeo.com/45851523)
 
-# PARSONS THE NEW SCHOOL FOR DESIGN
-# Summer 2013 Bootcamp Code Syllabus
+
 -------------------------------------------------------------------
 
 ### [Wednesday, July 31: DAY 3](https://docs.google.com/presentation/d/1V-ZBnduJRSbLPwGCE-1VziMGW0Z4AEP-A5_U7GOMUx0/edit?usp=sharing)
@@ -78,7 +76,6 @@ Opening Event (Auditorium, all students)
 * Math operators: [`+`](http://processing.org/reference/addition.html), [`-`](http://processing.org/reference/minus.html), [`*`](http://processing.org/reference/multiply.html), [`/`](http://processing.org/reference/divide.html), [`%`](http://processing.org/reference/modulo.html) and [`=`](http://processing.org/reference/assign.html).
 * Optional: Trigonometry (we'll cover this in a Dorkshop later during Bootcamp): [`cos()`](http://processing.org/reference/cos_.html), [`sin()`](http://processing.org/reference/sin_.html). (Check out this [tutorial of Trigonometry](http://processing.org/tutorials/trig/) ).
 
-
 ## Homework
 
 * Draw an image using code so that it changes when the size of the screen changes.
@@ -86,13 +83,12 @@ Opening Event (Auditorium, all students)
 * ***[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): Chapter 3. Interaction***
 * ***[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): Chapter 5. Conditionals (until "5.5 MultipleRollovers")***
 
-
 ## Video
 
 * [Golan Levin, OpenCV negat-spaces. ](http://www.ted.com/talks/golan_levin_ted2009.html)
 * [Theo Watson, Emily Watson, Interactivity. ](https://vimeo.com/49984593)
-# PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+
+
 -------------------------------------------------------------------
 
 ### [Thursday, August 1: DAY 4](https://docs.google.com/presentation/d/1TT03O_QtI4JW-_VykItm2dH26idwO9Y3zOE_tRjfmkU/edit?usp=sharing)
@@ -122,7 +118,6 @@ Opening Event (Auditorium, all students)
 * Increment [`++`](http://processing.org/reference/increment.html) and decrement [`--`](http://processing.org/reference/decrement.html); 
 * [`frameRate`](http://processing.org/reference/frameRate.html)
 
-
 ##Classwork/Homework:
 * Think in pseudo code for a bouncing ball sketch in class (in pairs). 
 * Use pseudo code as a guideline for homework assignment: a bouncing ball. During next class, students will expose the sketch in class gradually, by uncommenting code.
@@ -130,8 +125,8 @@ Opening Event (Auditorium, all students)
 ##Resources
 * ***[Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): the rest of "Chapter 5. Conditionals" until Physics***
 * Processing (book), Development 2: Iterations, debugging
-## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+
+
 -------------------------------------------------------------------
 
 ### Fri 2 Aug DAY 5
@@ -155,15 +150,13 @@ Opening Event (Auditorium, all students)
 * [textFont()](http://processing.org/reference/textFont_.html)
 
 ##HOMEWORK:
-* Make a fake GUI - that change with the displacement of the mouse. Combine fonts, image, if statement, mouseX/mouseY in the design. [Get inspired by JNimoy and GMonk](http://jtnimoy.net/?q=178)
-
+* Make a fake GUI - that change with the displacement of the mouse. Combine fonts, image, if statement, mouseX/mouseY in the design. [Get inspired by JNimoy and GMonk](http://jtnimoy.net/?q=178) 
 * [String and Text Tutorial](http://processing.org/tutorials/text/)
 * [Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): the rest of "Chapter 5. Conditionals"  
 * [Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): Chapter 6. Loops  
 * [Learning Processing](http://21it.files.wordpress.com/2008/09/0123736021.pdf): chapter 7: Functions
 
-## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+
 -------------------------------------------------------------------
 
 ### Monday, August 5: DAY 6
@@ -177,15 +170,13 @@ Opening Event (Auditorium, all students)
 * Each time change at least one variable (color, size, position, speed etc.)
 * Learning Processing: Chapter 7: Functions 
 
-
 ## Video:
 * Aaron Koblin: http://www.ted.com/talks/aaron_koblin.html?quote=976 (data visualization)
 * Jer Thorp: https://vimeo.com/35300280 ( data visualization / journalism )
 * Jonathan Harris:  http://www.ted.com/talks/jonathan_harris_tells_the_web_s_secret_stories.html ( data visualization / more web related )
-* Jer Thorp: Make data more human
-http://www.ted.com/talks/jer_thorp_make_data_more_human.html
-## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+* Jer Thorp: Make data more human: http://www.ted.com/talks/jer_thorp_make_data_more_human.html
+
+
 -------------------------------------------------------------------
 
 ### Tuesday, August 6: DAY 7 
@@ -205,8 +196,7 @@ Use the keyboard and mouse.
 * [Matrix-style flip-book animation](https://www.youtube.com/watch?v=UocF4ycBnYE)
 * [Golan Levin on software (as) art](http://www.ted.com/talks/golan_levin_on_software_as_art.html)
 
-# PARSONS THE NEW SCHOOL FOR DESIGN
-# Summer 2013 Bootcamp Code Syllabus
+
 -------------------------------------------------------------------
 
 ### Wednesday, August 7: DAY 8 
@@ -214,37 +204,30 @@ Use the keyboard and mouse.
 * Let's speak about Memory and it power
 * Arrays Introduction
 
-
 ## Homework
 * Array of bouncing balls + gravity.
-
 
 ## Video
 * [Kyle McDonald: OpenSource, gitHub, forums, etc. ](https://vimeo.com/50239840)
 * [Robert Hodgin: Particles. ](https://vimeo.com/32300198)
 
-# PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+
 -------------------------------------------------------------------
 
 ### Thursday, August 8: DAY 9
-
-
 
 ##Key Concepts
 * Arrays (continued)
 * Physics (collisions, gravity, speed)
 
-
 ##Homework:
 Create a sketch that has graphics/images/fonts exploding out of mouse clicks.
-
 
 ###Video: 
 Bret Victor - Inventing on Principle
 <http://www.youtube.com/watch?v=PUv66718DII&feature=BFa&list=PLE3EA8B90F0EC848F>
-## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+
+
 -------------------------------------------------------------------
 
 ### Friday, August 9: DAY 10
@@ -256,7 +239,6 @@ Bret Victor - Inventing on Principle
 * hour()  
 * etc  
   
-
 ##Math  
 * Pi  
 * sin()  
@@ -268,47 +250,45 @@ Bret Victor - Inventing on Principle
 * sqrt()  
   
 ##Homework:
-
 MAKE A CLOCK! It has to  
   * Show the current time (in real time)  
   * Work  
-  
-Example:
-http://processing.org/examples/clock.html
-## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
---------------------------------------------------------
+Example: http://processing.org/examples/clock.html
+
+
+-------------------------------------------------------------------
 
 ### Monday, August 12: DAY 11
 
 Present options for final project
-
 * drawing tool
 * game
 
-Answer lingering questions from past two weeks## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+Answer lingering questions from past two weeks.
+
+
 -------------------------------------------------------------------
 
 ### Tuesday, August 13: DAY 12
 
-Work on final projects!## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+Work on final projects!
+
+
 -------------------------------------------------------------------
 
 ### Wednesday, August 14: DAY 13
-## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+
+
 -------------------------------------------------------------------
 
 ### Thursday, August 15: DAY 14
 
-Last day to work on final projects!## PARSONS THE NEW SCHOOL FOR DESIGN
-## Summer 2013 Bootcamp Code Syllabus
+Last day to work on final projects!
+
+
 -------------------------------------------------------------------
 
 ### Friday, August 16: DAY 15
-
 
 ##FINALS  
 * ALL DAY ERRY DAY  
