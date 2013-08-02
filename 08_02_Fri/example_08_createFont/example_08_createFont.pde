@@ -40,7 +40,7 @@ void setup() {
   text("inside the sketches 'data' folder.,", 20, fontPosY+120);
 
   fill(100);
-  text("Let's creat a font", 20, width-30);
+  text("Let's create a font", 20, width-30);
 }
 
 void draw() {
