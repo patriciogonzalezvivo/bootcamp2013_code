@@ -11,7 +11,7 @@ only invisible. Press any key to make them reappear.
 int numBalls = 10000;
 int buffer = 10;
 int disappearRadius = 50;
-int ballSize = 0;
+int ballSize = 2;
 
 int [] ballsX = new int[numBalls];
 int [] ballsY = new int[numBalls];
