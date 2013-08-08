@@ -3,7 +3,7 @@
 int count = 8;
 float gravity = 0.1;
 
-//  Make a bunch of arrays that holds all the information
+//  Make a bunch of arrays that hold all the information
 //
 float[] rad = new float[count];
 color[] col = new color[count]; 
@@ -16,7 +16,7 @@ void setup() {
   size(800, 500);
   smooth();
 
-  //  Give random parameter to all the 'balls properties'
+  //  Give random parameters to all the 'balls properties'
   //
   for (int i = 0; i < count;i++) {
     rad[i] = random(10, 25);
@@ -45,14 +45,14 @@ void draw() {
         float distance = dist(xPos[i], yPos[i], xPos[j], yPos[j]);
 
         if (distance <= (rad[i]+rad[j]) ) {
-          yPos[i] -= ySpeed[i]*2.0;  // Make them go to previus position for not getting stock
+          yPos[i] -= ySpeed[i]*2.0;  // Make them go to previous position so they don't get stuck
 
           ySpeed[i] *= -0.95;
           ySpeed[j] *= -0.95;
         } 
 
         if (distance <= (rad[i]+rad[j]) ) {
-          xPos[i] -= xSpeed[i]*2.0;  // Make them go to previus position 
+          xPos[i] -= xSpeed[i]*2.0;  // Make them go to previous position 
 
           xSpeed[i] *= -0.95;
           xSpeed[j] *= -0.95;
@@ -60,7 +60,7 @@ void draw() {
       }
     }
 
-    //  Update the Phisics
+    //  Update the physics
     //
     xPos[i] += xSpeed[i];
     yPos[i] += ySpeed[i];
@@ -75,7 +75,7 @@ void draw() {
       ySpeed[i] *= -0.95;
     }
 
-    // Render the balls
+    // Draw the balls
     //
     fill(col[i]);
     ellipse(xPos[i], yPos[i], rad[i]*2.0, rad[i]*2.0);
